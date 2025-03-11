@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
-	printf("hello gsm!");
+	printf("0987llo g1sm!");
+	printf("æ∆≥Á«œººø‰");
 	return 0;
 }
